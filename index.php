@@ -19,7 +19,7 @@ $uploads_path_uri = "uploads/";
 <body>
   <header>
     <div class="logotype">
-      <img src="assets/images/SVG/bank28-logo.svg" alt="Bank 28 logo" />
+      <img src="assets/images/SVG/bank28-logo.svg" alt="Bank 28 Brewing Company circular logo" />
     </div>
     <div class="book-table">
       <a href="#" aria-label="Link to book a table" class="btn" id="bookTableBtn">Grab a Table</a>
@@ -27,7 +27,7 @@ $uploads_path_uri = "uploads/";
   </header>
   <main>
     <div class="logotype-type">
-      <img src="assets/images/SVG/bank-logo-type.svg" alt="Bank 28 type" />
+      <img src="assets/images/SVG/bank-logo-type.svg" alt="Bank 28 Brewing Company wordmark" />
     </div>
     <div class="links">
       <?php if (show_file_option('menueat')): ?>
@@ -43,7 +43,7 @@ $uploads_path_uri = "uploads/";
       <!-- / <a href="#" aria-label="Link to events">Event</a> -->
     </div>
     <div class="beer-symbols">
-      <img src="assets/images/SVG/beer-symbols.svg" alt="Beer symbols" />
+      <img src="assets/images/SVG/beer-symbols.svg" alt="Various beer-related symbols and icons" />
     </div>
   </main>
 
